@@ -2,18 +2,18 @@ A ruby implementation of Roger Alsing's "Mona Lisa evolution program":http://rog
 
 The script accepts up to two arguments: a path to a source image (the default Mona Lisa image is used if none is provided), and whether or not to save the output in the "dumps" folder (yes if the second argument is "savedumps", otherwise no).
 
-h2.Reference implementation:
+h2. Reference implementation:
 "http://code.google.com/p/alsing/downloads/list":http://code.google.com/p/alsing/downloads/list
 
-h2.Other implementations:
-h3.Javascript: 
+h2. Other implementations:
+h3. Javascript: 
 "http://alteredqualia.com/visualization/evolve/":http://alteredqualia.com/visualization/evolve/
 
-h3.Java:
+h3. Java:
 "http://github.com/ynd/genetic-drawing/tree/master":http://github.com/ynd/genetic-drawing/tree/master
 
-h3.Clojure:
+h3. Clojure:
 "http://github.com/ynd/mona-clojure/tree/master":http://github.com/ynd/mona-clojure/tree/master
 
-h3.C:
+h3. C:
 "http://github.com/mackstann/mona/tree/master":http://github.com/mackstann/mona/tree/master
